@@ -1,4 +1,4 @@
-# Freelancer Valentina Herrera 
+# Freelancer 
 ***
 
 ## Html
@@ -58,4 +58,4 @@
 
 ***
 
-###### Ejercicio realizado por Valentina Herrera para Laboratoria, llamado Freelancer, entregado ```26.10.2017``` , en Santiago de Chile.
+###### Ejercicio realizado por Valentina Herrera para Laboratoria, llamado Freelancer, entregado ```30.10.2017``` , en Santiago de Chile.
